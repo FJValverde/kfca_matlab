@@ -2,6 +2,9 @@
 
 K-Formal Concept Analysis using Matlab
 
+
+This repository uses the (Maxminplus_toolbox)[https://github.com/FJValverde/Maxminplus_toolbox], so install it in advance. 
+
 ## Instructions for installation
 
 1. Clone the repository where required.
